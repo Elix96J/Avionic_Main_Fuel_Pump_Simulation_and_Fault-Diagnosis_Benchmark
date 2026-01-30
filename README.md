@@ -39,7 +39,7 @@ To run the simulations you will need:
 
 - MATLAB with Simulink
 - Simscape and Simscape Fluids toolboxes (and any additional toolboxes required by the model)
-- Sufficient RAM and disk space to store the generated CSV files
+- Sufficient RAM and disk space (around 12 GB) to store the generated CSV files
  
 The model was developed within MATLAB R2025a version.
 ---
